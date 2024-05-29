@@ -1,0 +1,333 @@
+{
+  "menus": [
+    {
+      "name": "Blackpaper Miso Chciken",
+      "description": "Boneless Roast Chicken Seasoned with Blackpepper & Miso sauce",
+      "price": "35000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/0f1f31f982dd01ebaa05ea6adbd645c7-1660011179927",
+      "CategoryId": 1,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 1
+    },
+    {
+      "name": "Takoyaki Mentai",
+      "description": "TAKOYAKI MENTAI!",
+      "price": "40000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/11e69861fb6df614e49084de791f98d9-1660020910152",
+      "CategoryId": 1,
+      "ingredients": [
+        "sajcak",
+        "hbasc",
+        "",
+        ""
+      ],
+      "id": 2
+    },
+    {
+      "name": "Hot Spicy Chicken Teriyaki",
+      "description": "Boneless chicken meat cooked with onion slices and HokBen typical teriyaki sauce with spicy flavor.",
+      "price": "38000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/25af18d605682a9ee5964cbf8ffb6fd2-1660021204262",
+      "CategoryId": 1,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 3
+    },
+    {
+      "name": "Hot Spicy Beef Teriyaki",
+      "description": "Boneless chicken meat cooked with onion slices and HokBen typical teriyaki sauce with spicy flavor.",
+      "price": "48000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/47cd75c78f10532d126d89a6571f73db-1660021258558",
+      "CategoryId": 1,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 4
+    },
+    {
+      "name": "Chciken Teriyaki",
+      "description": "Boneless chicken meat and slices of onion cooked with HokBen special teriyaki sauce.",
+      "price": "33000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/de7bcaab4fcc8728656353b8b8c50830-1660021526361",
+      "CategoryId": 1,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 5
+    },
+    {
+      "name": "Beef Teriyaki",
+      "description": "Premium beef, slices of onion and cooked with HokBen special teriyaki sauce.",
+      "price": "43000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/51f6922339800d6e46b57f24c626f3ac-1660021687342",
+      "CategoryId": 1,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 6
+    },
+    {
+      "name": "Chicken Yakiniku",
+      "description": "Boneless chicken meat and slices of onion cooked with HokBen special yakiniku sauce.",
+      "price": "33000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/8d112e20d809be482ef4e02d946537a9-1660021821926",
+      "CategoryId": 1,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 7
+    },
+    {
+      "name": "Beef Yakiniku",
+      "description": "Premium beef, slices of onion and green paprika cooked with HokBen special yakiniku sauce.",
+      "price": "43000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/34f61fd789c80b8cf815e8eac4a6ee8e-1660021724105",
+      "CategoryId": 1,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 8
+    },
+    {
+      "name": "Ogura",
+      "description": "Special dessert made of red beans served with simple syrup, coconut milk and shaved ice.",
+      "price": "14000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/ad89d4f03722bd1adb15e6a6e2d044b5-1660030681385",
+      "CategoryId": "2",
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 9
+    },
+    {
+      "name": "Pudding Coklat",
+      "description": "Pudding rasa coklat.",
+      "price": "21000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/85d3982312f46a43b9216119c0b76a80-1660030535279",
+      "CategoryId": 2,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 10
+    },
+    {
+      "name": "Es Merah Delima",
+      "description": "Es serut dengan topping buah delima",
+      "price": "20000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/ae5b2742e57bfb0e332dbc25f1e9dc4d-1662429556587",
+      "CategoryId": 2,
+      "ingedients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 11
+    },
+    {
+      "name": "Soft Pudding Bubblegum",
+      "description": "A pudding with a soft texture with a Bubble Gum aroma and flavor",
+      "price": "19000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/b6cad3e9e7e0a7f25d055e47c7220a8d-1660030453581",
+      "CategoryId": 2,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 12
+    },
+    {
+      "name": "Cold Ocha",
+      "description": "Cold and fresh Japanese green tea.",
+      "price": "10000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/de519de6a1ccc02b5af54ad3959e2013-1660032100269",
+      "CategoryId": 3,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 13
+    },
+    {
+      "name": "Coca Cola",
+      "description": "Coca Cola ",
+      "price": "12000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/cf4eaae061e8720102b76a722cf56ce7-1660032291118",
+      "CategoryId": 3,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 14
+    },
+    {
+      "name": "Aqua",
+      "description": "Mineral Water",
+      "price": "9000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/255f1b952b2c4d5566ade29c3460b3ba-1660032399418",
+      "CategoryId": 3,
+      "ingedients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 15
+    },
+    {
+      "name": "Salad",
+      "description": "pickles, shaved cabbage topped with HokBen's special mayonnaise inside cup.",
+      "price": "17000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/d4e54aa120b07a697ad2c2482a098d05-1660031296824",
+      "CategoryId": 4,
+      "ingedients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 16
+    },
+    {
+      "name": "Rice",
+      "description": "Rice from Japan",
+      "price": "9000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/ccbaf95d68cb94999f727584415edf1a-1660031329504",
+      "CategoryId": 4,
+      "ingredients": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 17
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Main Menu"
+    },
+    {
+      "id": 2,
+      "name": "Desserts"
+    },
+    {
+      "name": "Drink",
+      "id": 3
+    },
+    {
+      "name": "Side Dish",
+      "id": 4
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "itemId": 1,
+      "name": "Water"
+    },
+    {
+      "id": 2,
+      "itemId": 1,
+      "name": "Sugar"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Gustav",
+      "email": "gustav@mail.com",
+      "password": "$2a$04$Wv2U6pJ5jBbjrs/2lN9FGeDPhY3O5UXq9DlxDFCElusO3LJFtSylS",
+      "phoneNumber": "0812009172638",
+      "address": "Suite 35"
+    },
+    {
+      "id": 2,
+      "name": "Shela",
+      "email": "shela@mail.com",
+      "password": "$2a$04$xUUYBA8HJ//FaWikG/nrOu4NzC7kCUSnExBc/qvvmNc.T/k6vV5RK",
+      "phoneNumber": "0812009172638",
+      "address": "Suite 42"
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "teslagi",
+      "email": "teslagi@mail.com",
+      "password": "12345",
+      "phoneNumber": "2738468314",
+      "address": "dmana aja",
+      "id": 4
+    },
+    {
+      "name": "yaya",
+      "email": "yaya@mail.com",
+      "password": "12345",
+      "phoneNumber": "13233113",
+      "address": "acascc",
+      "id": 5
+    },
+    {
+      "name": "yaya",
+      "email": "yaya@mail.com",
+      "password": "12345",
+      "phoneNumber": "13233113",
+      "address": "acascc",
+      "id": 6
+    },
+    {
+      "name": "admin1",
+      "email": "admin1@mail.com",
+      "password": "12345",
+      "phoneNumber": "0182362891",
+      "address": "jkdnhaodoe",
+      "id": 7
+    },
+    {
+      "name": "admin2",
+      "email": "admin2@mail.com",
+      "password": "12345",
+      "phoneNumber": "0139821832",
+      "address": "ajsdsadxd",
+      "id": 8
+    }
+  ]
+}
